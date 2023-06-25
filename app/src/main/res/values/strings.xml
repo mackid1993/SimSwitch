@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SIM Switch</string>
+    <string name="sim_settings_name">SIMs</string>
+    <string name="refresh">Refresh</string>
+    <string name="sim_icon_description">SIM icon</string>
+    <string name="default_state">Default for %1$s</string>
+    <string name="default_state_voice">calls</string>
+    <string name="default_state_sms">SMS</string>
+    <string name="default_state_data">mobile data</string>
+</resources>
